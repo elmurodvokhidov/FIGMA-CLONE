@@ -1,4 +1,4 @@
-import jsPDF from "jspdf";
+// import jsPDF from "jspdf";
 import { twMerge } from "tailwind-merge";
 import { type ClassValue, clsx } from "clsx";
 
@@ -104,11 +104,11 @@ export const exportToPdf = () => {
   if (!canvas) return;
 
   // use jspdf
-  const doc = new jsPDF({
-    orientation: "landscape",
-    unit: "px",
-    format: [canvas.width, canvas.height],
-  });
+  // const doc = new jsPDF({
+  //   orientation: "landscape",
+  //   unit: "px",
+  //   format: [canvas.width, canvas.height],
+  // });
 
   // get the canvas data url
   const data = canvas.toDataURL();

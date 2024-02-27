@@ -28,6 +28,13 @@ Welcome to the real-time Figma Clone project! This project aims to replicate the
 - **Clearing**: Clear the canvas to start fresh.
 - **Exporting Canvas**: Export your designs for further use or sharing.
 
+## Hotkeys 🎹
+
+- **/**: Open live cursor chat
+- **e**: Open reactions
+- **esc**: Close
+
+
 ## Quick Start 🚀
 
 To get started with the real-time Figma Clone project, follow these steps:
@@ -53,7 +60,7 @@ To get started with the real-time Figma Clone project, follow these steps:
 4. Set up environment variables:
 
     ```bash
-    export NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=your-liveblocks-public-key
+    NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=your-liveblocks-public-key
     ```
 
 5. Run the development server:
@@ -79,7 +86,7 @@ To get started with the real-time Figma Clone project, follow these steps:
 
 A heartfelt thank you to [Adrian Hajdin](https://github.com/adrianhajdin) for inspiring and guiding us in the creation of this fantastic and fun project!
 
-## Contributions 🙌
+## Contributions 🌟
 
 Contributions to the real-time Figma Clone project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 

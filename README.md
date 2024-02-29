@@ -33,6 +33,10 @@ Welcome to the real-time Figma Clone project! This project aims to replicate the
 - **/**: Open live cursor chat
 - **e**: Open reactions
 - **esc**: Close
+- **ctrl+z**: Undo
+- **ctrl+y**: Redo
+- **ctrl+c**: Copy
+- **ctrl+v**: Paste
 
 
 ## Quick Start 🚀
